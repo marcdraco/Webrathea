@@ -1,0 +1,19 @@
+<!--
+Database selection by number might be useful..
+-->
+<database>
+	<type>mysql</type>
+	<host>77.68.53.214</host>
+	<user>trinity</user>
+	<pass>234hf8K34js81</pass>
+	<port>3306</port>
+	<socket></socket>
+	<schema>science</schema>
+</database> 
+
+<database> 
+	<type>sqlite</type>
+	<host>database</host>
+</database> 
+
+
